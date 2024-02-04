@@ -8,10 +8,10 @@ Number Manipulation and F Strings in Python</h5>
 
 <h2>Project Name: Tip Calculator</h2>
 <h5>
-  Here i have created a project which asks for 3 inputs from the user
-1) Total bill 
-2) Total number of people in which bill will be shared.
-3) Percent tip one would like to give. 
-The output shows the amount each one has to pay rounded upto 2 decimal places.
+  Here i have created a project which asks for 3 inputs from the user<br>
+1) Total bill <br>
+2) Total number of people in which bill will be shared.<br>
+3) Percent tip one would like to give. <br>
+The output shows the amount each one has to pay rounded upto 2 decimal places.<br>
 </h5>
 
