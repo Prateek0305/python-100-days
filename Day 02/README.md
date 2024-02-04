@@ -8,7 +8,7 @@ Number Manipulation and F Strings in Python</h5>
 
 <h2>Project Name: Tip Calculator</h2>
 <h5>
-  Here i have created a project which asks for 3 inputs from the user<br>
+  Here I have created a project which asks for 3 inputs from the user<br>
 1) Total bill <br>
 2) Total number of people in which bill will be shared.<br>
 3) Percent tip one would like to give. <br>
