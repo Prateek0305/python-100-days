@@ -1,4 +1,4 @@
-<h1>Day 1 - Control flow and logic operators</h1>
+<h1>Day 3 - Control Flow and Logic Operators</h1>
 <h3>Concepts Practised-</h3>
 <h5>Printing to the Console in Python<br>
 Control Flow with if / else and Conditional Operators <br>
